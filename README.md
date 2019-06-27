@@ -1,2 +1,2 @@
 # extrato-eletronico-rede
-Projeto que importa os extratos eletrônicos de Rede gerados pela Tivit
+Projeto que importa os extratos eletrônicos gerado por EDI Financeiro
